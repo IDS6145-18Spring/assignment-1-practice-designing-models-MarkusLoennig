@@ -2,16 +2,15 @@
 (remove: **text between brackets to be removed**)
 
 > * Participant name: Markus Loennig
-> * Project Title: (Title of the problem you are looking and modeling)
-
+> * Project Title: Motion Activated, Solar powered Technical solution for Electrically Redundant (MASTER) City Lighting
 ## General Introduction
 
 A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
+(Electricity is a valuable resource. Cities use a lot electricity to lighten up the streets and buildings with or without need to do so. )
+(A motion activated lighting system will save electricity and therefore money. Electricity will be generated via solar panels and stored in E-Bikes, who will be able to rent and otherwise wil be the batteries for the lighting system and could also be used in failure of the electrical system in order to buffer vital systems. )
 (remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 ## Requirements (Experimental Design)
