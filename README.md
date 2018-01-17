@@ -55,6 +55,7 @@ The lighting will measure the speed of the cars to "inform" the next lights to e
 
 (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
+https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-MarkusLoennig/blob/master/analysis/README.md
 (analysis/README.md)
 
 
