@@ -23,7 +23,7 @@ The requirements for the MASTER Lighting system are:
 
 Solar panels will generate the needed energy to charge the Bikestands and the E-Bikes. 
 The solar panels shall automatically move to the best angle (within +20° horizontally) to harvest the sun with regard to the seasons.
-It shall be able to heat itself (with or without external power source) enough to melt snow (in conjunction with the 20° angle rise). The solar panels should also serve as roof for the Bikestand.
+It shall be able to heat itself (with or without external power source) enough to melt and/or free itself of snow (in conjunction with the 20° angle rise). The solar panels should also serve as roof for the Bikestand.
 
 The energy storage capacity of the combined Bikestands (at least 80%) and E-Bikes (at least75%) shall be sufficient to power the attached city street lighting.
 Each Bikestand will hold at least 20 E-Bikes.
