@@ -27,6 +27,7 @@ The inputs will be:
 - sunshine leading to production of solar energy, charging the system
 - usage of E-Bikes, therefore partly depleting the stored electricity
 - usage of Lighting
+
 all will be depending on the season/weather to be simulated
 
 Outputs will be:
