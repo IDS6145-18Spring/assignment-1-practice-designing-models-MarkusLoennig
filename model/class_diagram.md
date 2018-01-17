@@ -5,7 +5,7 @@ their respective functions and operations (lower sections). It shows that the cl
 "Engine" and "Bike Body". Since the system is assumed to be self sufficient, it also shows that the class "Lighting" is dependant on the 
 Bikestand. A function of the Bikestand is to +power lights(), which is the prerequisite for the Lighting to work. 
 
-
+![Example Object Diagram](../images/class_diagram.png)
 
 (remove: More decription)
 (remove: Maybe a second or third diagram to highlight a point or aspect)
