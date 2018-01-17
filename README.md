@@ -19,7 +19,7 @@ The proposed "MASTER City Lighting" solution adapted this idea on a smaller scal
 
 ## Requirements (Experimental Design)
 
-The requirements for the MASTER Lighting system are:
+The requirements for the MASTER City Lighting system are:
 
 Solar panels will generate the needed energy to charge the Bikestands and the E-Bikes. 
 The solar panels shall automatically move to the best angle (within +20° horizontally) to harvest the sun with regard to the seasons.
@@ -41,15 +41,16 @@ The lighting will measure the speed of the cars to "inform" the next lights to e
 
 (remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
-## Smart City (My Problem) Model
+## MASTER City Lighting Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+The models underlying the MASTER City Lighting will be under the given Links.
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+![Image of the MASTER City Lighting Object Diagram](images/object_diagram.png)
+
+* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components and explanation.
+* [**Class Diagram**](model/class_diagram.md) - provides details of the involved classes, their variables and respective functions. 
+* [**Behavior Diagram**](model/behavior_diagram.md) - provides details in form of a statechart of the electrical charge and the capability to power the Lighting system. 
+
 
 ## Smart City (My Problem) Simulation
 
