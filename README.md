@@ -19,6 +19,26 @@ The proposed "MASTER City Lighting" solution adapted this idea on a smaller scal
 
 ## Requirements (Experimental Design)
 
+The requirements for the MASTER Lighting system are:
+
+Solar panels will generate the needed energy to charge the Bikestands and the E-Bikes. 
+The solar panels shall automatically move to the best angle (within 20° horizontally) to harvest the sun with regard to the seasons.
+The solar panels should also serve as roof for the Bikestand.
+
+The energy storage capacity of the combined Bikestands (at least 80%) and E-Bikes (at least75%) shall be sufficient to power the attached city street lighting.
+Each Bikestand will hold at least 20 E-Bikes.
+The electrical capacity of each Bikestand shall be sufficient to charge at least 50%  of the Stands respective capacity at daytime (in normal operation, average weather sunshine conditions --> normal operation and conditions TBD). 
+The recharge time (from 15% to 90%) for an E-Bike is less than 45 minutes. 
+The E-Bikes shall be capable to drive at least 15mph (electrically) but not be faster than 30mph.
+The range of an E-Bikes (fully electric) shall be at least 15 miles (environmental conditions like weight of rider, slope... tbd). 
+
+The lighting shall be sensitive enough to identify single pedestrians with a height of at least 3 feet in a distance of at least 50 feet (area of responsibility). 
+The lighting will use bright, high luminosity, low power LEDs with a high angle of illumination.   
+The lighting shall be able to identify when pedestrians are present (stopped movement) and will keep illuminating.
+The lighting shall automatically engage when pedestrians or cars are within its area of responsibility.
+The lighting will measure the speed of the cars to "inform" the next lights to engage in due time (warning function) and give longer/wider field of illumination when faster.
+
+
 (remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
 ## Smart City (My Problem) Model
