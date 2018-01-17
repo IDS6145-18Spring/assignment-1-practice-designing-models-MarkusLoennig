@@ -1,5 +1,4 @@
 # Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
 
 > * Participant name: Markus Loennig
 > * Project Title: Motion Activated, Solar powered Technical solution for Electrically Redundant (MASTER) City Lighting
