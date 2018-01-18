@@ -37,10 +37,4 @@ Outputs will be:
 
 The outputs will help determine what system/class needs to be adapted in size (e.g. larger solar panels, more Bikestands) and/or if the proposed MASTER Lighting System can be indeed self sufficient. 
 
-(remove: Define what category  (or combination of categories) of simulation needed to solve this problem.)
-
-(remove: Why did you choose this simulation type?)
-
-(remove: Roughly, how would you conduct the simulation to produce the results from your specification?)
-
-(remove: images say 1000 words for you...)
++![Using the Behavioral Diagram to illustrate Inputs_Outputs](discrete_event_remarks.PNG)

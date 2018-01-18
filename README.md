@@ -15,7 +15,7 @@ This proposed solution will regard 3 aspects in a Smart City. Clean electicity g
 
 Historical context: quite a few major cities in Europe offer such a Bike rental system (free for some period of time), some even with E-Bikes, but none use the E-Bikes as "electrical infrastructure" or to power other systems. Japan is researching the possibility to use E-Cars (especially the ones generating power like the "Prius") to integrate them into the electrical distribution system in case of emergency (earthquake) to buffer local shortages. 
 The proposed "MASTER City Lighting" solution adapted this idea on a smaller scale.
-
+![Bike Rental](images/Velibvelo1.jpg)
 
 ## Requirements (Experimental Design)
 
