@@ -37,4 +37,4 @@ Outputs will be:
 
 The outputs will help determine what system/class needs to be adapted in size (e.g. larger solar panels, more Bikestands) and/or if the proposed MASTER Lighting System can be indeed self sufficient. 
 
-+![Using the Behavioral Diagram to illustrate Inputs_Outputs](analysis/discrete_event_remarks.PNG)
++![Using the Behavioral Diagram to illustrate Inputs_Outputs](discrete_event_remarks.PNG)
