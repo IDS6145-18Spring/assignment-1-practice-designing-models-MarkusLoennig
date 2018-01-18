@@ -9,7 +9,3 @@ This safes significant ressources over time, contributes to the relieve of traff
 
 ![Example Object Diagram](../images/object_diagram.png)
 
-(remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
-
-(remove: each diagram markdown file should roughly follow this template)
