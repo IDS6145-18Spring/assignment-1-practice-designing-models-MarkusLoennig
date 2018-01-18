@@ -39,8 +39,6 @@ The lighting shall automatically engage when pedestrians or cars are within its 
 The lighting will measure the speed of the cars to "inform" the next lights to engage in due time (warning function) and give longer/wider field of illumination when faster.
 
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
-
 ## MASTER City Lighting Model
 
 The models underlying the MASTER City Lighting will be under the given Links.
@@ -52,15 +50,17 @@ The models underlying the MASTER City Lighting will be under the given Links.
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details in form of a statechart of the electrical charge and the capability to power the Lighting system. 
 
 
-## Smart City (My Problem) Simulation
+## Smart City MASTER Lighting Simulation
 
+The intended discrete-event based simulation will help evaluate the overall capacity in the different environments in which it is supposed to work in. This information will help to make decisions on the right size and layout of MASTER City Lighting.
 (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 [**Analysis Section**](analysis/README.md)
 
 
-## Smart City (My Problem) Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+## Smart City MASTER City Lighting Model
+I have coded 4 out of 11 different classes, including attributes/variables and very basic (empty) functions.
+[**Code template**](code/README.md) 
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
