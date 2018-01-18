@@ -1,10 +1,10 @@
-# Assignment1 - Practice Designing Models (Template)
+﻿# Assignment1 - Practice Designing Models (Template)
 
 > * Participant name: Markus Loennig
 > * Project Title: Motion Activated, Solar powered Technical solution for Electrically Redundant (MASTER) City Lighting
 ## General Introduction
 
-A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
+A very **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
 
 ![Image of Smart City](images/smartcity.png)
 
