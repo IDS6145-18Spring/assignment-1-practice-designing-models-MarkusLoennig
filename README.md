@@ -58,7 +58,8 @@ The intended discrete-event based simulation will help evaluate the overall capa
 
 
 ## Smart City MASTER City Lighting Model
-I have coded 4 out of 11 different classes, including attributes/variables and very basic (empty) functions.
+I have coded the 4 (out of 11) different classes, including attributes/variables and very basic (empty) functions.
+
 [**Code template**](code/README.md) 
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
