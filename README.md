@@ -53,7 +53,6 @@ The models underlying the MASTER City Lighting will be under the given Links.
 ## Smart City MASTER Lighting Simulation
 
 The intended discrete-event based simulation will help evaluate the overall capacity in the different environments in which it is supposed to work in. This information will help to make decisions on the right size and layout of MASTER City Lighting.
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 [**Analysis Section**](analysis/README.md)
 
