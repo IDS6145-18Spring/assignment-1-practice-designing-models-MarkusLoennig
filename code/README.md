@@ -1,4 +1,5 @@
-## Smart City (My Problem) Model
+## Smart City MASTER City Lighting Model
 
-(remove:  Starting coding framework for the (insert your exact problem here.)
-(remove: learn to describe your code a bit, link the files and provide a brief explanation what each file is doing for your model and simulation)
+Each file is a class which is defining the attributes/variables and the functions. In this case, the functions are basically empty.
+
+![Code](1_SimTech_class_E-Bike.py)
